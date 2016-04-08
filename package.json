@@ -1,0 +1,34 @@
+{
+  "name": "gulp-sourcemaps-uglify",
+  "version": "1.0.0",
+  "description": "for demonstrating how to get gulp sourcemaps working with uglify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouhenry/gulp-sourcemaps-uglify.git"
+  },
+  "keywords": [
+    "gulp",
+    "sourcemaps",
+    "uglify",
+    "js",
+    "javascript"
+  ],
+  "author": "Henry Zou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zouhenry/gulp-sourcemaps-uglify/issues"
+  },
+  "homepage": "https://github.com/zouhenry/gulp-sourcemaps-uglify#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bytediff": "^1.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-filelog": "^0.4.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3"
+  }
+}
